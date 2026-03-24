@@ -1,8 +1,6 @@
 # CaseyLabs
 
-## Overview
-
-**Cloud Platform Engineering + Consulting (AWS & DevOps)**
+## Cloud Platform Engineering + Consulting (AWS & DevOps)
 
 - **Website:** &nbsp;&nbsp; [https://caseylabs.com](https://caseylabs.com)
   
