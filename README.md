@@ -6,6 +6,12 @@
   
 - **Public Repos:** &nbsp;&nbsp; [https://github.com/CaseyLabs?tab=repositories](https://github.com/CaseyLabs?tab=repositories)
 
+## Active Repos
+
+- **[kcUtils](https://github.com/CaseyLabs/kcUtils)** - Misc utils, scripts, and templates used by Casey Labs
+
+- **[kc-secure-repo-template](https://github.com/CaseyLabs/kc-secure-repo-template)** - A security-hardened repo template for new GitHub projects
+
 ## Git Commit Signing Key
 
 Git commits and tags are signed with a dedicated SSH signing key.
