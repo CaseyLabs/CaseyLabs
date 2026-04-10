@@ -6,11 +6,11 @@
   
 - **Public Repos:** &nbsp;&nbsp; [https://github.com/CaseyLabs?tab=repositories](https://github.com/CaseyLabs?tab=repositories)
 
-## Active Repos
-
-- **[kcUtils](https://github.com/CaseyLabs/kcUtils)** - Misc utils, scripts, and templates used by Casey Labs
+## Active Projects
 
 - **[kc-secure-repo-template](https://github.com/CaseyLabs/kc-secure-repo-template)** - A security-hardened repo template for new GitHub projects
+
+- **[kcUtils](https://github.com/CaseyLabs/kcUtils)** - Misc utils, scripts, and templates used by Casey Labs
 
 ## Git Commit Signing Key
 
