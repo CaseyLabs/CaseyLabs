@@ -10,9 +10,9 @@
 
 ## Active Projects
 
-- **[kc-secure-repo-template](https://github.com/CaseyLabs/kc-secure-repo-template)** - A security-hardened repo template for new GitHub projects
+- ⭐ **[kc-secure-repo-template](https://github.com/CaseyLabs/kc-secure-repo-template)** - A security-hardened repo template for new GitHub projects
 
-- **[kcUtils](https://github.com/CaseyLabs/kcUtils)** - Misc utils, scripts, and templates used by Casey Labs
+- ⭐ **[kcUtils](https://github.com/CaseyLabs/kcUtils)** - Misc utils, scripts, and templates used by Casey Labs
 
 ---
 
