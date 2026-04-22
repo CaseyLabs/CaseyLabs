@@ -12,6 +12,12 @@
 
 - **[kcUtils](https://github.com/CaseyLabs/kcUtils)** - Misc utils, scripts, and templates used by Casey Labs
 
+---
+
+### Community Contributions
+
+- [Merged PRs to third-party projects](https://github.com/search?q=is%3Apr+is%3Amerged+author%3ACASEYLABS+-user%3ACASEYLABS+sort%3Aupdated-desc&type=pullrequests)
+
 ## Git Commit Signing Key
 
 Git commits and tags are signed with a dedicated SSH signing key.
