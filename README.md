@@ -1,10 +1,10 @@
 # `CaseyLabs`
 
-## Cloud Platform Engineering + Consulting (AWS & DevOps)
+**Cloud Platform Engineering + Consulting (AWS & DevOps)**
 
-- **Website:** &nbsp;&nbsp; [https://caseylabs.com](https://caseylabs.com)
+**Website:** &nbsp;&nbsp; [https://caseylabs.com](https://caseylabs.com)
   
-- **Public Repos:** &nbsp;&nbsp; [https://github.com/CaseyLabs?tab=repositories](https://github.com/CaseyLabs?tab=repositories)
+**Public Repos:** &nbsp;&nbsp; [https://github.com/CaseyLabs?tab=repositories](https://github.com/CaseyLabs?tab=repositories)
 
 ---
 
@@ -18,7 +18,7 @@
 
 ### Community Contributions
 
-- [Merged PRs to third-party projects](https://github.com/search?q=is%3Apr+is%3Amerged+author%3ACASEYLABS+-user%3ACASEYLABS+sort%3Aupdated-desc&type=pullrequests)
+[Merged PRs to third-party projects](https://github.com/search?q=is%3Apr+is%3Amerged+author%3ACASEYLABS+-user%3ACASEYLABS+sort%3Aupdated-desc&type=pullrequests)
 
 ---
 
