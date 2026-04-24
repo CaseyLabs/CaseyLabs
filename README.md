@@ -12,6 +12,8 @@
 
 ⭐ **[kc-secure-repo-template](https://github.com/CaseyLabs/kc-secure-repo-template)** - A security-hardened repo template for new GitHub projects
 
+⭐ **[kcNotes](https://github.com/CaseyLabs/kcNotes)** - A content management system (CMS) written in Go + HTMX
+
 ⭐ **[kcUtils](https://github.com/CaseyLabs/kcUtils)** - Misc utils, scripts, and templates used by Casey Labs
 
 ---
